@@ -1,6 +1,8 @@
 :last-update-label!:
 :nofooter:
 :stylesdir: .asciidoc/
+:stylesheet: styler.css
+
 [.text-center]
 --
 Greetings!
