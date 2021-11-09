@@ -6,8 +6,8 @@
 :favicon: dev.ico
 
 [.text-center]
+== Greetings!
 --
-Greetings!
 
 This is currently the music I listen to, when programming.
 
