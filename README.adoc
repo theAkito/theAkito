@@ -2,6 +2,8 @@
 :nofooter:
 :stylesdir: .asciidoc/
 :stylesheet: styler.css
+:title: Akito
+:favicon: dev.ico
 
 [.text-center]
 --
