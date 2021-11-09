@@ -1,6 +1,8 @@
 :last-update-label!:
+:nofooter:
 :stylesdir: .asciidoc/
-
+[.text-center]
+--
 Greetings!
 
 This is currently the music I listen to, when programming.
@@ -10,3 +12,4 @@ This is currently the music I listen to, when programming.
 ++++
 
 Hope that helps.
+--
