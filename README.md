@@ -1,5 +1,19 @@
-# [Developer Website](https://dev.akito.ooo/)
+<img align="left" style="margin:10px;float:left;max-width:200px;max-height:152px;" src="https://avatars.githubusercontent.com/u/26848976?v=4">
 
+### Greetings!
+
+I'm passionate about Cloud-Native Infrastructure Architecture, which especially & not only implies DevOps, CloudOps & Software Engineer doings.
+
+[![GPG](https://img.shields.io/badge/GPG-0x6A48F58C713BBB08-313131?style=flat&labelColor=545454&color=313131)](https://github.com/theAkito.gpg) [![Bio](https://img.shields.io/badge/Bio-akito.bio.link-313131?style=flat&labelColor=545454&color=313131)](https://akito.bio.link/)
+
+<br>
+
+My bread & butter is everything related to Kubernetes, including Container based virtualisation technologies in general. My professional software development mostly revolves around engineering cloud applications to be deployed in a Kubernetes environment designed by myself, through a delivery process optimised for the use case at hand.
+
+In the following section, you see a visual representation of some statistics regarding my personal & recreational Github activity.
+
+<section>
+<div>
 <a href="https://github.com/theAkito" style="margin:10px;float:left;max-width:2000px;">
   <img align="left" src="./profile-3d-contrib/profile-night-green.svg" />
 </a>
@@ -11,3 +25,29 @@
 <a href="https://skillicons.dev" style="margin:50px;float:left;max-width:1000px;">
   <img align="left" src="https://skillicons.dev/icons?i=nim,kotlin,rust,wasm,docker,kubernetes,git,github,linux,idea,vscode,androidstudio,ansible,bash,deno,graphql,md,nginx,postgres,raspberrypi,arduino,regex,spring,stackoverflow,devto,elixir,sentry&perline=6" />
 </a>
+<br>
+</div>
+</section>
+
+<br>
+<br>
+<br>
+
+<section style="width:0px;display:inline-block;height:100%;vertical-align:bottom;"></section>
+<div style="float:left;">
+<p>
+Kotlin with Spring Boot & PostgreSQL is what I use primarily for Cloud Development.
+<br>
+I am very eager to get more into Rust & WebAssembly for extending into further areas of software development, I am interested in.
+</p>
+<p>
+If you are in any way interested in working on fun open source projects together with me, do not hesitate to contact me.
+</p>
+</div>
+
+<div style="float:left;">
+<a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
+<a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
+<a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
+<a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
+</div>
