@@ -28,25 +28,6 @@ In the following section, you see a visual representation of some statistics reg
 </div>
 </section>
 
-  <br>
-  <br>
-  <br>
-  
-  
-
-<section style="width:0px;display:inline-block;height:100%;vertical-align:bottom;"></section>
-<div align="left">
-<p>
-Kotlin with Spring Boot & PostgreSQL is what I use primarily for Cloud Development.  
-<br>
-I am very eager to get more into Rust & WebAssembly for extending into further areas of software development, I am interested in.
-</p>
-<p>
-If you are in any way interested in working on fun open source projects together with me, do not hesitate to contact me.
-</p>
-</div>
-  
-  
 <div style="float:left;">
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
