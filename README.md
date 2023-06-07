@@ -1,4 +1,4 @@
-<a align="left" href="https://akito.bio.link/"><img align="left" src="./img/akito-qr.png"></a>
+<a align="left" href="https://akito.bio.link/"><img align="left" src="./img/akito-qr-lil-less.png"></a>
 
 ### Greetings!
 
