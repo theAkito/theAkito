@@ -1,4 +1,4 @@
-<a align="left" href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
+<a align="left" href="https://akito.bio.link/"><img src="./img/akito-qr-lil.png"></a>
 
 ### Greetings!
 
@@ -45,7 +45,8 @@ I am very eager to get more into Rust & WebAssembly for extending into further a
 If you are in any way interested in working on fun open source projects together with me, do not hesitate to contact me.
 </p>
 </div>
-
+  
+  
 <div style="float:left;">
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
