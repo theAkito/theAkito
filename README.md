@@ -43,9 +43,9 @@ If you are in any way interested in working on fun open source projects together
 </p>
 </div>
 
-<!-- <div style="float:left;">
+<div align="left">
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
-</div> -->
+</div>
