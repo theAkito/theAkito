@@ -31,6 +31,8 @@ In the following section, you see a visual representation of some statistics reg
   <br>
   <br>
   <br>
+  
+  
 
 <section style="width:0px;display:inline-block;height:100%;vertical-align:bottom;"></section>
 <div style="float:left;">
