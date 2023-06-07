@@ -1,4 +1,4 @@
-<a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
+<a align="left" href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 
 ### Greetings!
 
@@ -35,7 +35,7 @@ In the following section, you see a visual representation of some statistics reg
   
 
 <section style="width:0px;display:inline-block;height:100%;vertical-align:bottom;"></section>
-<div style="float:left;">
+<div align="left">
 <p>
 Kotlin with Spring Boot & PostgreSQL is what I use primarily for Cloud Development.  
 <br>
