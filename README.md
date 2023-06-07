@@ -28,9 +28,9 @@ In the following section, you see a visual representation of some statistics reg
 </div>
 </section>
 
-<div style="float:left;">
+<!-- <div style="float:left;">
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
 <a href="https://akito.bio.link/"><img src="./img/akito-qr.png"></a>
-</div>
+</div> -->
